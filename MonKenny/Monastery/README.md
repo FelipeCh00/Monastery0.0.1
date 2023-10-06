@@ -1,16 +1,9 @@
-# untitled1
+# Segunda entrega de Construcción de aplicaciones
 
-A new Flutter project.
+La entrega no es la mejor, pero es trabajo humilde. 
+Mejoraremos la entrega para el segundo corte, este codigo esta fatal para mantenerlo y editarlo. No es escalable (mala idea exportar solamente el proyecto de Flutter y dejarlo a ultima hora x.x)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nombres:
+- Felipe Chacón
+- Sebastian Salcedo
+- Kenny Andres Bermejo
